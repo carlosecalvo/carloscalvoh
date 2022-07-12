@@ -21,7 +21,7 @@ interests:
 - Data analysis
 - Data visualization
 - Knowledge sharing
-- Machine Learning
+- Machine learning
 organizations:
 - name: RAND Corporation/Pardee RAND Graduate School
   url: https://www.prgs.edu/
@@ -43,5 +43,5 @@ superuser: true
 title: Carlos Calvo-Hernandez
 ---
 
-I am a visualization data scientist who has developed dashboards for the Wounded Warrior Project, the Center for Disease Control, and worked on data science projects for many more stakeholders. I am a PhD candidate in Policy Analysis at the Pardee RAND Graduate School. I believe research communication can be used to motivate and give people tools to make better policy decisions. I want to improve policy-makers' abilities to make evidence-based decisions about climate change.
+I am an experienced visualization data scientist obsessed with dashboards, interactive data visualization, and climate change. I am a PhD candidate in Policy Analysis at the Pardee RAND Graduate School. I believe research communication can be used to motivate and give people tools to make better policy decisions. I want to improve policy-makers' abilities to make evidence-based decisions about climate change.
 

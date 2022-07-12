@@ -21,7 +21,7 @@ projects: []
 
 Hi! I've been meaning to do this for a loooooong time. Guess I finally got to it! 
 
-Enjoy my weird ramblings and uninteresting life.
+Enjoy my weird ramblings and random failures turned into teaching moments.
 
 A pic of sleepy Mika for your trouble:
 
